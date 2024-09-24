@@ -10,7 +10,7 @@
       scanf ("%f",&n2);
       printf ("veuillez entrer le 3er nombre : ");
       scanf ("%f",&n3);
-      moyenne_pondere =(2 * n1 + 3 * n2 + 5 * n3") / ( 3 + 2 + 5 );
+      moyenne_pondere =(2 * n1 + 3 * n2 + 5 * n3") / (3 + 2 + 5 );
       printf ("le moyenne podere est :%f\n");
 
 
